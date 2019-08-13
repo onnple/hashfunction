@@ -1,5 +1,5 @@
 # 散列函数(hash functions)
-散列函数的9种构造法，原文地址：  
+散列函数的9种构造法，原文地址：http://www.srcmini.com/1507.html  
 ## 散列函数构造法  
 ### 1、直接定址法
 extern int hash_direct_addr(int key);
